@@ -37,7 +37,7 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 
 Developed by : KEERTHIVASAN S
 
-Register Number: 23002436
+Register Number: 212223220046
 
 Code :
 
